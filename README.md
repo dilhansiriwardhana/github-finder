@@ -1,3 +1,16 @@
+
+![Screen Shot 2023-09-11 at 5 24 59 PM](https://github.com/dilhansiriwardhana/github-finder/assets/76891526/609242cf-895b-4c06-8d24-b79c6691934a)
+
+![Screen Shot 2023-09-11 at 5 25 12 PM](https://github.com/dilhansiriwardhana/github-finder/assets/76891526/2620291b-68d1-4e22-afaf-3bb9559e6907)
+
+<img width="1280" alt="Screen Shot 2023-09-11 at 5 25 12 PM (2)" src="https://github.com/dilhansiriwardhana/github-finder/assets/76891526/6b111a39-82fa-4db8-b1cc-4fa4d5dbee97">
+
+![Screen Shot 2023-09-11 at 5 25 28 PM](https://github.com/dilhansiriwardhana/github-finder/assets/76891526/f60a2d7e-bc04-4e5f-a810-8841cbcb687e)
+
+![Screen Shot 2023-09-11 at 5 25 38 PM](https://github.com/dilhansiriwardhana/github-finder/assets/76891526/f0700d47-cc69-467b-8b12-05475c2e41b8)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
