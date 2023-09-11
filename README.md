@@ -3,7 +3,6 @@
 
 ![Screen Shot 2023-09-11 at 5 25 12 PM](https://github.com/dilhansiriwardhana/github-finder/assets/76891526/2620291b-68d1-4e22-afaf-3bb9559e6907)
 
-<img width="1280" alt="Screen Shot 2023-09-11 at 5 25 12 PM (2)" src="https://github.com/dilhansiriwardhana/github-finder/assets/76891526/6b111a39-82fa-4db8-b1cc-4fa4d5dbee97">
 
 ![Screen Shot 2023-09-11 at 5 25 28 PM](https://github.com/dilhansiriwardhana/github-finder/assets/76891526/f60a2d7e-bc04-4e5f-a810-8841cbcb687e)
 
